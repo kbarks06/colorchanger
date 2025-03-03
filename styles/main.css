@@ -1,0 +1,15 @@
+body{
+    background-color: #f1f5f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    text-align: center;
+}
+
+header h2{
+    font-size: 300%;
+}
+
+.btn{
+    align-items: center;
+    background-color: azure;
+}
